@@ -1,0 +1,16 @@
+column,missing_count,missing_percent
+age,0,0.0
+workclass,1836,5.64
+fnlwgt,0,0.0
+education,0,0.0
+education_num,0,0.0
+marital_status,0,0.0
+occupation,1843,5.66
+relationship,0,0.0
+race,0,0.0
+sex,0,0.0
+capital_gain,0,0.0
+capital_loss,0,0.0
+hours_per_week,0,0.0
+native_country,583,1.79
+income,0,0.0

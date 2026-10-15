@@ -1,0 +1,7 @@
+column,lower_bound,upper_bound,flagged_count
+age,-2.0,78.0,143
+fnlwgt,-61009.0,415887.0,992
+education_num,4.5,16.5,1198
+capital_gain,0.0,0.0,2712
+capital_loss,0.0,0.0,1519
+hours_per_week,32.5,52.5,9008

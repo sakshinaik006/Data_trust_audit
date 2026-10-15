@@ -1,0 +1,9 @@
+Metric,Before cleaning,After cleaning
+Total records,32561,32537
+Exact duplicate rows,24,0
+Missing cells,4262,4261
+Rows with at least one missing value,2399,2398
+Invalid age records,0,0
+Invalid working-hours records,0,0
+Category values with extra whitespace,288787,0
+Education label/code conflicts,0,0
